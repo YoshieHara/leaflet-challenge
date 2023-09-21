@@ -4,7 +4,8 @@ W15 Assignment
 ## Final Result Earthquake Visualisation
 ![image](https://github.com/YoshieHara/leaflet-challenge/blob/main/Image/leaflet.png)
 Resource: https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
-All earthquakes in past day
+
+All earthquakes from the past day
 
 ---------------------------------------------------------
 ## Background
