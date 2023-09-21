@@ -29,7 +29,8 @@ Part 1: Create the Earthquake Visualisation
 
 Part 2: Gather and Plot More Data (Optional with no extra points earning)
 
-Part 1: Create the Earthquake Visualisation
+
+### Part 1: Create the Earthquake Visualisation
 2-BasicMap
 
 Your first task is to visualise an earthquake dataset. Complete the following steps:
